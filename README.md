@@ -57,3 +57,4 @@ You can get in touch with us at dev@ocg.technology
 
 ## Can I hire you guys?
 Yes! We are available for hire. Visit [our homepage](https://ocg.technology/) or simply leave us a note to contact@ocg.technology. We will be happy to work with you!
+hey
